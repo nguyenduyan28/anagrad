@@ -8,15 +8,15 @@
 * Batch size : 128
 * Input layer : 3072
 * Implement activation function (RELU, Sigmoid, Softmax)
-
+* Build a loss function : CES 
 
 ## TODO: 
-* Build a loss function : CES 
-* Implement Adam, SGD
-* Implement dropout and batch normalization
 * Build a mlp classifier  
+  * build a layer
 * Implement forward propagation
 * Implement backward propagation 
+* Implement Adam, SGD
+* Implement dropout and batch normalization
 * Implement the train
 * Implement the predict
 * Implement the accuracy
