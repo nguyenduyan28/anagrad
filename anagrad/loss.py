@@ -18,9 +18,3 @@ class CrossEntropyLoss:
   def calc(self):
     return np.array(-(np.sum(np.log(self._input) * self._target)/ self._input.shape[0]))
  
-  
-
-
-
-
-
